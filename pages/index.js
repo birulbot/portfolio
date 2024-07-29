@@ -179,7 +179,7 @@ export default function Home() {
                 <div className="flex justify-center mb-2 ">
                   {skill.icon}
                 </div>
-                <p className="text-lg font-medium">{skill.name}</p>
+                <p className="text-lg font-medium text-text">{skill.name}</p>
               </div>
             ))}
           </div>
